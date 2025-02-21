@@ -1,0 +1,37 @@
+.main{
+	margin-top: 50px;
+	margin-bottom: 80px;
+	min-height:400px;
+}
+
+h1{
+	font-weight: lighter;
+	margin-bottom: 50px;
+}
+
+.contact-form{
+	width: 95%;
+	margin: 0 auto;
+}
+
+.contact-form input{
+	width: 45%;
+	margin: 30px 3% 70px 0px;
+	line-height: 40px;
+	border: none;
+	border-bottom: 1.5px solid black;
+
+}
+
+::placeholder{
+	color:#072F54;
+}
+
+.contact-form button{
+	width: 100px;
+	height: 35px;
+	background: #333030;
+	color: white;
+	border: none;
+	border-radius: 10px;
+}

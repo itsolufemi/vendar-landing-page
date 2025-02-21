@@ -1,0 +1,38 @@
+.main::before{
+	background-image: url('../images/blur.png');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	opacity:0.7;
+    z-index: 1;
+}
+
+.anc-message{
+	float:left;
+}
+
+.sign-up{	
+	float:left;
+	width:35%;
+	max-width: 350px;
+}
+
+.sign-up a{
+	text-decoration: none;
+	border: 1px solid black;
+	border-radius: 7px;
+	padding: 5px;
+	color: black;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.xplain-vid{
+	float:right;
+}
+
+.xplain-vid iframe{
+	min-width: 500px;
+	height:auto;
+	min-height: 300px;
+	margin: 0 auto;
+}

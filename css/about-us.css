@@ -1,0 +1,95 @@
+.header{
+	background-image: url('../images/lagos.png');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding-bottom: 30px;
+}
+
+.main{
+	margin-top: 0;
+}
+
+.navigation{
+	width: 80%;
+	max-width: 1100px;
+	margin: 0 auto;
+}
+
+.table-width{
+	width: 100%;
+	min-height: 300px;
+	padding-top: 50px;
+}
+
+.table-width table{
+	width: 80%;
+	max-width: 1100px;
+	margin: 0 auto;
+
+}
+
+.grey{
+	background: #B0B0B1;
+}
+
+.off-white{
+	background: #FFFFFF;
+}
+
+ .table-width td,th{
+	text-align: left;
+	padding-right: 45px;
+}
+
+.table-width  .icons th{
+	text-align: left;
+	font-size: 50px;
+	color: #727274;
+}
+
+.about-section .icons hr{
+	max-width: 150px;
+	margin-left: 0;
+	height: 4px;
+	color: white;
+	background: white;
+	border: none;
+}
+
+
+.about-section .headers td{
+	color: white;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+.about-section .paragraph td{
+	color: white;
+}
+
+
+.tech-section .sect-title{
+	font-size: 30px;
+	color: #253E63;
+}
+
+.tech-section .headers th{
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+
+.tech-section .headers strong{
+	color: #5e5e5e;
+}
+
+.tech-section .paragraph td{
+	font-size: 20px;
+	padding-top: 10px;
+	color: #5e5e5e;
+}
+
+
+
+
+
+
